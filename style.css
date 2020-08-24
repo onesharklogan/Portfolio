@@ -20,7 +20,7 @@ a {
 color:rgb(176, 209, 255);
 }
 
-ul{
+ol, ul{
 color: rgb(233, 233, 233);
 }
 
@@ -30,10 +30,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  height: 45%;
+  width: 45%;
 }
 
 body{
+  text-align: left;
   background: rgb(38, 37, 37);
   display: block;
   margin-left: auto;
