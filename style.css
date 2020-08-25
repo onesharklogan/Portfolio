@@ -20,6 +20,7 @@ p{
 color: rgb(233, 233, 233);
 }
 
+/* Link State Styling */
 a:link {
 color:rgb(176, 209, 255);
 }
@@ -36,10 +37,12 @@ a:active {
 color:rgb(153, 195, 255);
 }
 
+/* in the Skills and Interests - we could use more styling of the lists */
 ol, ul{
 color: rgb(233, 233, 233);
 }
 
+/*Round corners can be changed by altering Border Radius */
 img {
   align-content: center;
   border-radius: 50%;
